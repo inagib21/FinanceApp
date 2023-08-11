@@ -1,6 +1,3 @@
-Sure, here's a basic README template for your finance app:
-
-```markdown
 # Simple Finance App
 
 This is a simple finance tracking application built using FastAPI for the backend, SQLite as the database, and React with Bootstrap for the frontend.
